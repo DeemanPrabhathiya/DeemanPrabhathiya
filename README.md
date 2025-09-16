@@ -12,29 +12,6 @@
 
 ---
 
-## 🚀 About Me
-
-```javascript
-const deemanthan = {
-    role: "Associate Engineer - IT Operations",
-    location: "Colombo, Sri Lanka 🇱🇰",
-    experience: "2+ years",
-    currentlyWorking: "Axiata Digital Labs",
-    education: "BSc (Hons) Network System Engineering",
-    
-    dailyRoutine: {
-        serverManagement: "15+ enterprise servers",
-        userSupport: "200+ end-users",
-        ticketResolution: "40+ daily tickets",
-        slaAchievement: "98% customer satisfaction"
-    },
-    
-    currentlyLearning: ["AI/ML Engineering", "Advanced Cloud Architecture"],
-    askMeAbout: ["IT Operations", "Cloud Platforms", "Network Security", "System Administration"],
-    funFact: "I reduced system downtime by 15% and security vulnerabilities by 25%! 📈"
-};
-```
-
 ---
 
 ## 🛠️ Tech Stack & Expertise
