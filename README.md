@@ -32,7 +32,7 @@
     <a href="https://instagram.com/elpelippe" target="_blank" rel="noopener">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFF">
     </a>
-    <a href="https://linkedin.com/in/philippehenrique/" target="_blank" rel="noopener">
+    <a href="https://www.linkedin.com/in/deemanthan-prabhathiya-b766261a0)]" target="_blank" rel="noopener">
         <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFF">
     </a>
 </p>
