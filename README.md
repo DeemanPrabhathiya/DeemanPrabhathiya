@@ -30,7 +30,7 @@
 </p> -->
 
 <p align="right" style="margin-top:1rem;">
-    <a href="https://instagram.com/elpelippe" target="_blank" rel="noopener">
+    <a href="[https://instagram.com/elpelippe](https://www.instagram.com/deeman_prabhathiya/)" target="_blank" rel="noopener">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFF">
     </a>
     <a href="https://www.linkedin.com/in/deemanthan-prabhathiya-b766261a0)]" target="_blank" rel="noopener">
