@@ -1,4 +1,4 @@
-# Hi there, I'm Deemanthan Prabhathiya! 👋
+# Hi there, I'm Deemanthan Prabhathiya! 👋 <div align="center">
 ---
 
 <div align="center">
